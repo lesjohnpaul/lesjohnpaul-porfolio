@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>Juan Dela Cruz</title>
+        <title>Les John Paul Oliver</title>
       </Helmet>
 
       {/* Home Component */}

@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'lesjohnpauloliver@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639154213651',
   },
   {
     id: 3,
     description: 'City',
-    value: 'Baguio City',
+    value: 'Urdaneta City',
   },
 ];
 
@@ -43,21 +43,21 @@ export const aboutList2 = [
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
-    course: 'Elementary',
-  },
-  {
-    id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
+    school: 'Cabuloan National High School',
+    year: '2010',
     course: 'Senior High School',
   },
   {
+    id: 2,
+    school: 'Pangasinan State University',
+    year: '2012',
+    course: 'Bachelor of Science in Information and Communication Technology',
+  },
+  {
     id: 3,
-    school: 'Hogwarts University',
+    school: 'Unibersidad de Dadupan',
     year: '2016',
-    course: 'Bachelor of Science in Computer Science',
+    course: 'Masters in Information Technology',
   },
 ];
 export const aboutList4 = [
@@ -67,4 +67,11 @@ export const aboutList4 = [
     year: '2024',
     position: 'Full Stack Developer',
   },
+   {
+    id: 2,
+    company: 'PANELCO III',
+    year: '2016-Present',
+    position: 'Systems Administration Officer',
+  },
+
 ];
